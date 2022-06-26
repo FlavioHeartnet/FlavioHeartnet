@@ -4,6 +4,7 @@
   <div id="badges">
     <a href="https://www.linkedin.com/in/flavio-nogueira-2a64934b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
     <a href="https://www.youtube.com/user/FlavioHeartnet"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
+    <a href="https://www.instagram.com/eusouflavionogueira/"><img src="https://img.shields.io/badge/-Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/></a>
     <a href="http://bit.ly/MyPortifolioFlavio"><img src="https://img.shields.io/badge/-Portifolio-lightgrey?style=for-the-badge&logoColor=white" alt="Portifolio Badge"/></a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=flavioheartnet&style=flat-square&color=blue" alt=""/>
